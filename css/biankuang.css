@@ -1,0 +1,9 @@
+#message {
+     width: 500px;
+    height: 300px;
+    border: 1px solid bisque;
+    display:block;
+}
+ul{
+    list-style: none;
+}
